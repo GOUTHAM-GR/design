@@ -1,0 +1,29 @@
+.img-mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    font-family: 'Montserrat';
+}
+.abt-main{
+    /* display: flex;
+    margin-top: 50px;
+    font-family: 'Montserrat';
+    width:50%;
+    margin-left:30% ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+    /* margin-top: 50px;
+    width:70%;
+    margin-left:23% ; */
+    font-size: 20px;
+    margin-top: 30px;
+}
+/* .stack{
+    font-family: 'Montserrat';
+    margin-left: 40px ;
+    font-size: 23px;
+    
+} */
